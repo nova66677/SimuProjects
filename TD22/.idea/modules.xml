@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TD22.iml" filepath="$PROJECT_DIR$/TD22.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/ensta/Simulation/TD_1_base_common/TD_1_base_common.iml" filepath="$USER_HOME$/Documents/ensta/Simulation/TD_1_base_common/TD_1_base_common.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/TD_2_2_solution_javafx/TD_2_2_solution_javafx.iml" filepath="$USER_HOME$/Downloads/TD_2_2_solution_javafx/TD_2_2_solution_javafx.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/commons-geometry-1.0/commons-geometry-1.0.iml" filepath="$USER_HOME$/Downloads/commons-geometry-1.0/commons-geometry-1.0.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/commons-math-4.0-beta1/commons-math-4.0-beta1.iml" filepath="$USER_HOME$/Downloads/commons-math-4.0-beta1/commons-math-4.0-beta1.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/commons-numbers-1.2/commons-numbers-1.2.iml" filepath="$USER_HOME$/Downloads/commons-numbers-1.2/commons-numbers-1.2.iml" />
+    </modules>
+  </component>
+</project>
